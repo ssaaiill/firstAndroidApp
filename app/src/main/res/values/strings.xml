@@ -81,4 +81,5 @@
     <string name="pref_title_vibrate">Vibrate</string>
     <string name="title_activity_main23">Main23Activity</string>
     <string name="title_activity_nd">NDActivity</string>
+    <string name="title_activity_main3">Main3Activity</string>
 </resources>
